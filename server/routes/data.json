@@ -1,0 +1,59 @@
+{
+  "username": "janmesh",
+  "name": "janmesh",
+  "education": [
+    {
+      "college": "IIITDMJ",
+      "degree": "B. Tech",
+      "from_year": 2020,
+      "to_year": 2024,
+      "grade": "8.0",
+      "desc": "Bachelor's Degree"
+    },
+    {
+      "college": "+2 Boys AMU",
+      "degree": "XII PCM",
+      "from_year": 2018,
+      "to_year": 2020,
+      "grade": "73.2%",
+      "desc": "Senior Secondary school"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Blogging ninja",
+      "description": "a CRUD Application",
+      "links": [
+        {
+          "displayText": "Github",
+          "link": "https://github.com/janmesh799/Blogging-NinJa"
+        }
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "organisation": "ERS, IIITDMJ",
+      "from_year": 2021,
+      "to_year": 2021,
+      "role": "Software Developer"
+    }
+  ],
+  "Social": [
+    {
+      "username": "janmesh799",
+      "website": [
+        {
+          "displayText": "Github",
+          "link": "https://github.com/janmesh799/"
+        }
+      ]
+    }
+  ],
+  "Achievements": [
+    {
+      "index": 0,
+      "description": "got 116 rank in Codechef Starters"
+    }
+  ]
+}
